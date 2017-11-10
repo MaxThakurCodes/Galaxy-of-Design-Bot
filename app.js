@@ -23,6 +23,7 @@ if (sender.id === '376237837756137486'){
     message.channel.send('Pong!')
   }
 
+  if (message.channel.id('378231014650019840')) return;
 
   if (msg.includes('.com')) {
     message.delete();
