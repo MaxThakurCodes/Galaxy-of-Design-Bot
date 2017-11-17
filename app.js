@@ -25,7 +25,11 @@ if (sender.id === '376237837756137486'){
 
   if (message.channel.id === '378231014650019840'){
     return;
-  }
+  };
+  
+  if (message.channel.id === '380728262571065344'){
+    return;
+  };
 
  
   if (msg.includes('.com')) {
