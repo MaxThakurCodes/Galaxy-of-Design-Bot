@@ -39,7 +39,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.com')) {
     message.delete();
     sender.send("<@"+message.author.id+'> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
 
@@ -49,7 +49,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.c o m')) {
     message.delete();
     sender.send("<@"+message.author.id+'> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
 
@@ -58,7 +58,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.au')) {
     message.delete();
     sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
 
@@ -67,7 +67,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.hk')) {
     message.delete();
     sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
   
@@ -76,7 +76,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.eu')) {
     message.delete();
     sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
   
@@ -85,7 +85,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.pizza')) {
     message.delete();
     sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
   
@@ -94,7 +94,7 @@ if (sender.id === '376237837756137486'){
   if (msg.includes('.co')) {
     message.delete();
     sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
-    bot.channels.get('355675709127000065').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
     return;
   }
   
