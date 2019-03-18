@@ -15,9 +15,7 @@ bot.on('message', message => {
   var prefix = "."
 
 
-if (sender.id === '302457454846017546'){
-    return;
-} 
+
   if (msg === prefix + 'ping') {
     message.channel.send('Pong!')
   } 
