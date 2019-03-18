@@ -15,7 +15,7 @@ bot.on('message', message => {
   var prefix = "."
 
 
-if (sender.id === '376237837756137486'){
+if (sender.id === '302457454846017546'){
     return;
 } 
   if (msg === prefix + 'ping') {
@@ -62,7 +62,26 @@ if (sender.id === '376237837756137486'){
     return;
   }
 
+  if(msg.includes('.net')) {
+    message.delete();
+    sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    return;
+  }
   
+   if(msg.includes('.n e t')) {
+    message.delete();
+    sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    return;
+  }
+  
+   if(msg.includes('.xyz')) {
+    message.delete();
+    sender.send("<@"+message.author.id+ '> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:')
+    bot.channels.get('376254420641382402').send("<@" + message.author.id + "> Dont Post Any Links Here Or You Gonna Get Kicked Out:punch:")
+    return;
+  }
   
   if (msg.includes('.hk')) {
     message.delete();
